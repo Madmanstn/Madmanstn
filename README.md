@@ -22,7 +22,7 @@
 🌱 Currently studying Information Systems<br>
 💻 Learning full-stack web development<br>
 🎯 Goal: become a professional Web Developer<br>
-⚡ Fun fact: I enjoy solving problems with code and building things from scratch<br>
+⚡ Fun fact: I enjoy solving problems and building things from scratch<br>
 🎬 When I'm not coding, I'm watching horror movies, anime, or binging a good series<br>
 🎸 I play guitar, bass, and drums
 </p>
